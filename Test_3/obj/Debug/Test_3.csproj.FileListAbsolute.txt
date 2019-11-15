@@ -1,0 +1,10 @@
+C:\Users\ipd\source\repos\Test_3\Test_3\bin\Debug\Test_3.exe.config
+C:\Users\ipd\source\repos\Test_3\Test_3\bin\Debug\Test_3.exe
+C:\Users\ipd\source\repos\Test_3\Test_3\bin\Debug\Test_3.pdb
+C:\Users\ipd\source\repos\Test_3\Test_3\obj\Debug\Test_3.csprojAssemblyReference.cache
+C:\Users\ipd\source\repos\Test_3\Test_3\obj\Debug\Test_3.Form1.resources
+C:\Users\ipd\source\repos\Test_3\Test_3\obj\Debug\Test_3.Properties.Resources.resources
+C:\Users\ipd\source\repos\Test_3\Test_3\obj\Debug\Test_3.csproj.GenerateResource.cache
+C:\Users\ipd\source\repos\Test_3\Test_3\obj\Debug\Test_3.csproj.CoreCompileInputs.cache
+C:\Users\ipd\source\repos\Test_3\Test_3\obj\Debug\Test_3.exe
+C:\Users\ipd\source\repos\Test_3\Test_3\obj\Debug\Test_3.pdb
